@@ -1,0 +1,13 @@
+C:\Users\Andy\source\repos\Libs\Libs\bin\Debug\netcoreapp2.0\Libs.deps.json
+C:\Users\Andy\source\repos\Libs\Libs\bin\Debug\netcoreapp2.0\Libs.runtimeconfig.json
+C:\Users\Andy\source\repos\Libs\Libs\bin\Debug\netcoreapp2.0\Libs.runtimeconfig.dev.json
+C:\Users\Andy\source\repos\Libs\Libs\bin\Debug\netcoreapp2.0\Libs.dll
+C:\Users\Andy\source\repos\Libs\Libs\obj\Debug\netcoreapp2.0\Libs.csprojResolveAssemblyReference.cache
+C:\Users\Andy\source\repos\Libs\Libs\obj\Debug\netcoreapp2.0\Libs.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\Libs\Libs\obj\Debug\netcoreapp2.0\Libs.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\Libs\Libs\obj\Debug\netcoreapp2.0\Libs.AssemblyInfo.cs
+C:\Users\Andy\source\repos\Libs\Libs\bin\Debug\netcoreapp2.0\Libs.pdb
+C:\Users\Andy\source\repos\Libs\Libs\bin\Debug\netcoreapp2.0\LibsData.dll
+C:\Users\Andy\source\repos\Libs\Libs\bin\Debug\netcoreapp2.0\LibsData.pdb
+C:\Users\Andy\source\repos\Libs\Libs\obj\Debug\netcoreapp2.0\Libs.dll
+C:\Users\Andy\source\repos\Libs\Libs\obj\Debug\netcoreapp2.0\Libs.pdb
