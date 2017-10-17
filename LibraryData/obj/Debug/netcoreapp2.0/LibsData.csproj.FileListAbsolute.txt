@@ -1,0 +1,8 @@
+C:\Users\Andy\source\repos\Libs\LibraryData\bin\Debug\netcoreapp2.0\LibsData.deps.json
+C:\Users\Andy\source\repos\Libs\LibraryData\bin\Debug\netcoreapp2.0\LibsData.dll
+C:\Users\Andy\source\repos\Libs\LibraryData\bin\Debug\netcoreapp2.0\LibsData.pdb
+C:\Users\Andy\source\repos\Libs\LibraryData\obj\Debug\netcoreapp2.0\LibsData.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\Libs\LibraryData\obj\Debug\netcoreapp2.0\LibsData.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\Libs\LibraryData\obj\Debug\netcoreapp2.0\LibsData.AssemblyInfo.cs
+C:\Users\Andy\source\repos\Libs\LibraryData\obj\Debug\netcoreapp2.0\LibsData.dll
+C:\Users\Andy\source\repos\Libs\LibraryData\obj\Debug\netcoreapp2.0\LibsData.pdb
